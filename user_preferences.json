@@ -1,0 +1,9 @@
+{
+  "voice_speed": 150,
+  "preferred_browser": "chrome",
+  "work_hours": {
+    "start": "09:00",
+    "end": "17:00"
+  },
+  "reminder_frequency": 30
+}
